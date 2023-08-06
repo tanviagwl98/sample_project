@@ -1,0 +1,11 @@
+{
+  "name": "sample_project",
+  "version": "1.0.0",
+  "description": "It is a sample project",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Tanvi Agarwal",
+  "license": "ISC"
+}
